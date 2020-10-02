@@ -1,6 +1,7 @@
 # ros-moveit-panda-manipulator
 
-R_week8_test is a ROS package that will automatically generate Cartesian space movements of the end-effector of the Panda robot manipulator. 
+
+AR_week8_test is a ROS package that will automatically generate Cartesian space movements of the end-effector of the Panda robot manipulator. 
 
 Ensure both repositories are downloaded for melodic:
 
