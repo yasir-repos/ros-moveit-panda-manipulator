@@ -5,8 +5,9 @@ AR_week8_test is a ROS package that will automatically generate Cartesian space 
 
 Ensure both repositories are downloaded for melodic:
 
-git clone https://github.com/ros-planning/moveit_tutorials.git -b melodic-devel
-git clone https://github.com/ros-planning/panda_moveit_config.git -b melodic-devel
+$ git clone https://github.com/ros-planning/moveit_tutorials.git -b melodic-devel
+
+$ git clone https://github.com/ros-planning/panda_moveit_config.git -b melodic-devel
 
 To install the file, move the AR_week8_test folder to ~/catkin_ws/src.
 
