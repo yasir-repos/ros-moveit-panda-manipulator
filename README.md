@@ -10,10 +10,15 @@ git clone https://github.com/ros-planning/panda_moveit_config.git -b melodic-dev
 
 To install the file, move the AR_week8_test folder to ~/catkin_ws/src.
 
+Before continuing source your new setup.*sh file:
+
+$ source devel/setup.bash
+
 Use ~/catkin_ws/src/AR_week8_test/src and type:
 
-chmod +x square_size_generator.py
-chmod +x move_panda_square.py
+$ chmod +x square_size_generator.py
+
+$ chmod +x move_panda_square.py
 
 In the workspace, source it using $ source devel/setup.bash, then run $ catkin_make.
 
